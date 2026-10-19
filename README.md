@@ -1,4 +1,4 @@
 # hello-world
 
-Hey, th3re!
+Hey, there!
 
